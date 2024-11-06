@@ -1,6 +1,6 @@
 public class Sample
 {
-	public static bvoid min(String args[])
+	public static void min(String args[])
 	{
 		System.out.println("Docker Example");
 	}
